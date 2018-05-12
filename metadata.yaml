@@ -1,0 +1,27 @@
+_repo: The-Golden-Treasury-of-American-Songs-and-Lyrics_15553
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15553-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Knowles, Frederic Lawrence
+    birthdate: 1869
+    deathdate: 1905
+    gutenberg_agent_id: '3591'
+    url: http://www.gutenberg.org/2009/agents/3591
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2005-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+title: The Golden Treasury of American Songs and Lyrics
+url: http://www.gutenberg.org/ebooks/15553
